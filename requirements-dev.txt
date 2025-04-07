@@ -1,0 +1,9 @@
+# 开发环境依赖
+pytest==7.4.0
+black==24.3.0
+mypy==1.8.0
+flake8==6.1.0
+pre-commit==3.3.3
+jupyterlab==4.0.10
+python-dotenv==1.0.0
+mermaid-cli==9.4.0

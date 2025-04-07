@@ -1,0 +1,8 @@
+./models/dependencies/zh_core_web_lg-3.8.0.whl
+jieba>=0.42.1
+thinc==9.1.1
+gensim>=4.3.0
+scikit-learn>=1.0.2
+pandas>=1.5.0
+numpy>=1.21.0
+tqdm>=4.65.0
